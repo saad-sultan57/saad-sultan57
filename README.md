@@ -9,7 +9,6 @@
 
 - My Front-End-Development work [Macdonald](https://macdonald.vercel.app/)
 
-- 🌱 I’m currently learning **php Laravel**
 
 - My Front-End-Development work [Bonira](https://bonira.vercel.app/)
 
