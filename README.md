@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Saad**, a Full Stack Developer and Founder of **[Apex Web Lab](https://apexweblab.com)** — a dev agency building fast, scalable, and production-ready web products.
+I'm **Saad**, a Full Stack Developer and Co Founder of **[Apex Web Lab](https://apexweblab.com)** — a dev agency building fast, scalable, and production-ready web products.
 
 I don't just write code — I build **solutions that work for your business.**
 
