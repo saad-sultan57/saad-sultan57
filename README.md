@@ -82,10 +82,13 @@ const saad = {
 ## 📌 Featured Projects
 
 ### 🌧️ [Barish.pk](https://barish.pk)
-> Weather & rain forecast platform — built with modern web stack, fast and mobile-first.
+> Clothing Ecommerce App — built with modern web stack, fast and mobile-first.
 
 ### 🏢 [Apex Web Lab](https://apexweblab.com)
 > My dev agency — Full stack web development, AI integrations, and SaaS products.
+
+### 🏢 [Saints Scents](https://saintsscents.com)
+> Perfume Store — built with modern web stack Next js, fast and mobile-first.
 
 ---
 
