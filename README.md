@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+6%2B+Years;MERN+%2F+MEAN+Stack+Expert;Laravel+%2F+PHP+Developer;AI+%26+Automation+Builder;SaaS+%7C+CRM+%7C+HRM+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+6%2B+Years;MERN+%2F+MEAN+Stack+Expert;Laravel+%2F+PHP+Developer;AI+%26+Automation+Builder;SaaS+%7C+CRM+%7C+HRM+Systems)](https://git.io/typing-svg)
 
 </div>
 
